@@ -2,3 +2,4 @@ fastapi
 uvicorn
 xmltodict
 requests
+jinja2
